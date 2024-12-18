@@ -8,3 +8,8 @@ Bei Fragen gerne uns eine Mail Schreiben:
 mhottmann@stud.hs-heilbronn.de
 phottmann@stud.hs-heilbronn.de
 jwilleke@stud.hs-heilbronn.de
+
+Seyma Arslan
+215109
+
+[#6 Arslan.Seyma. EidesstattlicheErklaerung.pdf](https://github.com/user-attachments/files/18187629/6.Arslan.Seyma.EidesstattlicheErklaerung.pdf)
