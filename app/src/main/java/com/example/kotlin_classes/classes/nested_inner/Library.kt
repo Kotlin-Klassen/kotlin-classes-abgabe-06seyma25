@@ -34,8 +34,6 @@ fun main() {
     val myLibrary = Library("City Library")
     val librarian = myLibrary.Librarian("Alice Smith")
     println(librarian.getLibrarianInfo())  // Ausgabe: "Librarian: Alice Smith, Library: City Library"
-<<<<<<< HEAD
+
 }
-=======
-}
->>>>>>> 5652139a5732a137b8252e927fe34a68b13ff83f
+
